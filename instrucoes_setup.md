@@ -23,7 +23,7 @@ O Gazebo já abre um `roscore` implicitamente
 
 Executar `catkin_make` após fazer o download do projeto: 
 
-    cd ~/catkin_ws/src
+    cd ~/catkin_ws/
     catkin_make
 
 
