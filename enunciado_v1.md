@@ -16,6 +16,8 @@ Orientações gerais:
 
 Existe algumas dicas de referência rápida de setup [instrucoes_setup.md](instrucoes_setup.md)
 
+Você **não pode** tornar pública sua solução antes das 18:00 de hoje
+
 
 # Questões
 
@@ -40,7 +42,7 @@ Escreva aqui (neste markdown) em qual das duas versões trabalhou
 | Não executa | 0 |
 | Não consegue identificar ocorrências da categoria bicycle | 1.0 |
 | Identifica, mas não conta direito nem dá output | 2.0 |
-| Identifica e conta todas as ocorrências | 4.0 | 
+| Identifica e conta todas as ocorrências | 4.5 | 
 
 
 
@@ -60,30 +62,16 @@ Tome cuidado de levar em conta apenas valores válidos de leituras.
 ### Rubrica questão 2
 
 
-
 |Resultado| Conceito| 
 |---|---|
 | Não executa | 0 |
 | Não descobre qual o objeto mais próximo ou não filtra valores inválidos | 1.0 |
 | Identifica o objeto mais próximo, mas não se posiciona corretamente | 2.0 |
-| É capaz de se orientar na direção do objeto mais próximo | 4.0 | 
-
+| É capaz de se orientar na direção do objeto mais próximo | 4.5 | 
 
 
 
 ## Questão 3
-
-**1.0 ponto**
-
-Por que o projeto 1 é chamado de robótica comportamental?
-
-O que o robô precisaria ter para ir além do nível comportamental?
-
-Lembre-se de que **você pode pesquisar**.
-
-**Responda aqui**
-
-## Questão 4
 
 **1.0 ponto**
 
